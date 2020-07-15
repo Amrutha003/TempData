@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Samuel",
+    "age": 18,
+    "location": "Vizag"
+  },
+  {
+    "name": "Prasad",
+    "age": 40,
+    "location": "Chennai"
+  },
+  {
+    "name": "Yamuna",
+    "age": 25,
+    "location": "Banglore"
+  }
+]
